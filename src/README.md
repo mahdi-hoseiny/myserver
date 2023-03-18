@@ -1,22 +1,6 @@
-## Mahdi hoseini
-___
-
-### Some quick example text to build on the card title and make up the
-###              bulk of the card's content.
-
-___
-
-about me 
-
-___
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
+# h1 Heading 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
